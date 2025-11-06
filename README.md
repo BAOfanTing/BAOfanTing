@@ -6,10 +6,6 @@
 
 <hr/>
 
-<span align="left">
-  <img src="./image/top-langs.svg+xml" alt="BAOfanTing" />
-</span>
-
-<span align="right">
-  <img src="./image/api.svg+xml" alt="BAOfanTing" />
-</span>
+| Most Used Languages | Byseven's GitHub Stats |
+| ------------------- | ---------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAOfanTing&layout=compact&langs_count=6&theme=default) | ![BAOfanTing's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAOfanTing&show_icons=true&count_private=true&theme=default) |
