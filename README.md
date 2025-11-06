@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, This's BAOfanTing 
 
-<!--
-**BAOfanTing/BAOfanTing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./image/u=2577829634,1813807153&fm=253&fmt=auto&app=138&f=JPEG.jpeg" alt="img" style="zoom:50%;" />
 
-Here are some ideas to get you started:
+<h3 align="center">专科生,本科生,研究生,都不如妈妈生</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<span align="left">
+  <img src="./image/top-langs.svg+xml" alt="BAOfanTing" />
+</span>
+
+<span align="right">
+  <img src="./image/api.svg+xml" alt="BAOfanTing" />
+</span>
