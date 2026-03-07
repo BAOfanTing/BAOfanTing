@@ -11,7 +11,7 @@
   <table>
     <tr>
      <td>
-        <img src="./profile/stats.svg" width="100%" />
+        <img src="./profile/stats.svg" width="70%" />
       </td>
       <td>
         <img src="./profile/top-langs.svg" width="100%" />
