@@ -10,11 +10,11 @@
 
   <table>
     <tr>
-      <td>
-        ![Stats](./profile/stats.svg)
+     <td>
+        <img src="./profile/stats.svg" width="100%" />
       </td>
       <td>
-       ![Top Languages](./profile/top-langs.svg)
+        <img src="./profile/top-langs.svg" width="100%" />
       </td>
     </tr>
   </table>
