@@ -6,17 +6,11 @@
 
 <hr/>
 
-<div align="center">
-
-  <table>
-    <tr>
-     <td>
-        <img src="./profile/stats.svg" width="70%" />
-      </td>
-      <td>
-        <img src="./profile/top-langs.svg" width="100%" />
-      </td>
-    </tr>
-  </table>
-
+<div style="display: flex; justify-content: flex-start; align-items: stretch; gap: 10px;">
+  <div style="flex: 1; max-width: 450px;">
+    <img src="./profile/stats.svg" style="height: 195px; width: auto; object-fit: contain;" />
+  </div>
+  <div style="flex: 1; max-width: 300px;">
+    <img src="./profile/top-langs.svg" style="height: 195px; width: auto; object-fit: contain;" />
+  </div>
 </div>
