@@ -11,10 +11,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAOfanTing&layout=compact&langs_count=6&theme=default" />
+        ![Stats](./profile/stats.svg)
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=BAOfanTing&show_icons=true&count_private=true&theme=default" />
+       ![Top Languages](./profile/top-langs.svg)
       </td>
     </tr>
   </table>
